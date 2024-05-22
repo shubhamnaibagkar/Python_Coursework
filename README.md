@@ -223,7 +223,7 @@ class Config:
 
 This work resulted in a functional password generator application that leverages object-oriented programming principles and design patterns. The application is extendable and maintains user preferences across sessions. Future enhancements could include adding more customization options for password generation and improving the user interface.
 
-## Optional: Resources, References List
+##  Resources, References List
 
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 - [PEP8 Style Guide](https://pep8.org/)
@@ -231,4 +231,4 @@ This work resulted in a functional password generator application that leverages
 
 ```
 
-This revised report includes code snippets to illustrate how each OOP pillar and design pattern is implemented, providing a comprehensive understanding of the code's structure and functionality.
+
